@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:laba_6/pages/home.dart';
-import 'package:laba_6/pages/reset_password.dart';
 
 
 void main() => runApp(MaterialApp(
